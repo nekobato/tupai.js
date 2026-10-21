@@ -54,5 +54,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/deyunanhai/tupai.js.git"
+  },
+  "engines": {
+    "node": "^22.23.4 || ^24.22.1 || ^26.12.1"
   }
 }
